@@ -18,7 +18,7 @@ Main topics include:
 - Statistical inference and regression
 - Supervised and unsupervised machine learning
 
-Programming languages used:
+Programming languages (Modules) used:
 
 - Python
 - Jupyter Notebook
@@ -32,7 +32,6 @@ Programming languages used:
 |--------|------|
 | HW1 | Probability and Information Theory |
 | HW2 | Linear Algebra & Matrix Decomposition |
-| HW3 | Statistics and Regression |
 | HW4 | Machine Learning Algorithms |
 
 Each assignment includes:
@@ -44,5 +43,4 @@ Each assignment includes:
 ## Author
 
 Egor Grishin  
-MSc Financial Engineering  
 Shanghai Advanced Institute of Finance
