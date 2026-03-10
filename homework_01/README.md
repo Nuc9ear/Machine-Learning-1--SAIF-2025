@@ -18,8 +18,3 @@ This homework focuses on core probability tools used in machine learning and qua
 - survival analysis identities
 - differentiation of CDFs
 - hazard-rate decomposition
-
-## Files
-
-- `homework_01.ipynb` — notebook solution
-- `homework_01.pdf` — exported PDF version
