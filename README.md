@@ -32,7 +32,7 @@ Programming languages (Modules) used:
 |--------|------|
 | HW1 | Probability and Information Theory |
 | HW2 | Linear Algebra & Matrix Decomposition |
-| HW4 | Machine Learning Algorithms |
+| HW3 | Machine Learning Algorithms |
 
 Each assignment includes:
 
@@ -42,5 +42,4 @@ Each assignment includes:
 
 ## Author
 
-Egor Grishin  
-Shanghai Advanced Institute of Finance
+Egor Grishin 
